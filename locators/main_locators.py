@@ -5,4 +5,4 @@ class MainPageLocators:
     # Локаторы для главной страницы
     INPUT_TEXT_IN_SEARCH = (By.CSS_SELECTOR, "input[id='header-search']")
     BUTTON_FIND = (By.CSS_SELECTOR, "button[type='submit']")
-    NAME_PRODUCT = (By.XPATH, "//h3[@data-zone-name='title']//span]")
+    NAME_PRODUCT = (By.XPATH, "//h3[@data-zone-name='title']//span")
